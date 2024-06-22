@@ -1,0 +1,7 @@
+.python-version
+*.gz
+*.jpg
+/venv
+/cifar-10-batches-py
+/images
+/data
